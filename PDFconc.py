@@ -15,9 +15,13 @@ Use from Python script or from IDE:
     
 Use from shell:
     * type: pythonPDFconc.py help for help on use in the shell
-    
-
+   
 """
+
+__author__ = "Jethro Betcke"
+__copyright__ = "Copyright 2024, Jethro Betcke"
+__version__ = "0.02"
+__maintainer__ = "Jethro Betcke"
 
 from PyPDF2 import PdfWriter
 
